@@ -1,3 +1,14 @@
+/* Add background color to page */
+body {
+  background-color: gray;
+}
+
+/* Add background color to text box */
+#box {
+  background-color: #AD049D ;
+}
+
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -24,14 +35,4 @@
 .topnav a.active {
   background-color: #AD049D;
   color: white;
-}
-
-/* Add background color to page */
-body {
-  background-color: gray;
-}
-
-/* Add background color to text box */
-#box {
-  background-color: #AD049D ;
 }

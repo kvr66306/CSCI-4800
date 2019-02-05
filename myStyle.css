@@ -30,3 +30,8 @@
 body {
   background-color: gray;
 }
+
+/* Add background color to text box */
+#demobox {
+  background-color: #cfc ;
+}

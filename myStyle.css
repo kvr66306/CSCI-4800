@@ -4,7 +4,7 @@ body {
 }
 
 /* Add background color to text box */
-#box {
+.box {
   background-color: #AD049D ;
 }
 

@@ -8,7 +8,6 @@ body {
 
 /* Add background color to text box */
 .box {
-  background-color: #f1bfc2 ;
   padding: 50px 50px 50px 50px;
   width: 90%;
   margin: auto;
@@ -17,7 +16,6 @@ body {
 }
 
 .box2 {
-   background-color: #ffd992;
   padding: 50px 20px;
   width: 90%;
   margin: auto;
@@ -34,6 +32,14 @@ body {
 }
 
 .textdiv {
+  background-color: #f1bfc2 ;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.textdiv2 {
+  background-color: #ffd992;
   width: 70%;
   margin: auto;
   text-align: center;

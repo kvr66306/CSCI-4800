@@ -8,6 +8,7 @@ body {
 
 /* Add background color to text box */
 .box {
+  background-color: #8190d3;
   padding: 50px 50px 50px 50px;
   width: 90%;
   margin: auto;

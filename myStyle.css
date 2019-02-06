@@ -13,6 +13,14 @@ body {
   text-align: center;
 }
 
+.box2 {
+   background-color: #ffd992;
+  padding: 50px;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
 
 /* Add a black background color to the top navigation */
 .topnav {

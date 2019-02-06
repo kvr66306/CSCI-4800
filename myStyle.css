@@ -1,15 +1,15 @@
 /* Add background color to page */
 body {
   background-color: gray;
-  color: #FFA07A;
-  margin: auto;
+  color: black;
 } 
 
 /* Add background color to text box */
 .box {
-  background-color: #CD5C5C ;
+  background-color: #f1bfc2 ;
   padding: 50px;
-  width: 75%
+  width: 75%;
+  margin: auto;
 }
 
 

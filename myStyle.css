@@ -22,6 +22,15 @@ body {
   text-align: center;
 }
 
+.box3 {
+  background-color: #8190d3;
+  padding: 50px 50px 50px 50px;
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
 .textdiv {
   width: 70%;
   margin: auto;

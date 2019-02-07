@@ -69,8 +69,8 @@ body {
 .footer {
   padding: 50px 50px 50px 50px;
   width: 100%;
-  margin: 50px;
+  margin: auto;
   text-align: center;
-  border-top: solid 5px;
-  border-color: red;
+  border-top: double;
+  border-color: #ee86ab;
 }

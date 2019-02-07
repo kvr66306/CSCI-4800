@@ -70,5 +70,6 @@ body {
   width: 90%;
   margin: 50px;
   text-align: center;
-  border-top: double #ee86ab;
+  border-color: #ee86ab;
+  border-top: double;
 }
